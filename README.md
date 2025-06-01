@@ -1,5 +1,7 @@
-SentiFeel
- ![Sentifeel By JEAN-EUDES ASSOGBA](https://jeaneudes-dev.github.io/sentifeel/emoji.gif "Sentifeell")
+# SentiFeel
+ ![Sentifeel By JEAN-EUDES ASSOGBA](https://jeaneudes-dev.github.io/sentifeel/favicon.ico "Sentifeell")
+
+
 SentiFeel is an advanced sentiment analysis tool that allows users to discover the emotional tone behind their text. Built with modern web technologies, SentiFeel provides real-time sentiment detection with a sleek and intuitive interface. Whether you're analyzing customer feedback, social media posts, or personal notes, SentiFeel helps you understand the underlying emotions with ease.
 🌟 Features
 
